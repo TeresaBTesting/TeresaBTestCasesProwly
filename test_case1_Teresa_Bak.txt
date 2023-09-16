@@ -51,12 +51,12 @@ Step 14 Repeat steps 6-9. Expected result: System works as expected. Find modal 
 Step 15 Click on ‘All filters’ lookup button /‘Videos’ filter. Expecetd result: Videos with ‘Prowly’ word are listed.
 Step 16 Repeat steps 6-9. Expected result: System works as expected. Find modal shows. Prowly word is found and highlighted.
 Step 17 Click on‘All filters’ lookup button / ‘Maps’ filter.  expected result: Maps with ‘Prowly’ word are listed.
-Step 16 Repeat steps 6-9. Expected result: System works as expected. Find modal shows. Prowly word is found and highlighted.
-Step 17 Click on ‘All filters’ lookup button / Books filter. Expected result: Books with ‘Prowly’ word are listed.
 Step 18 Repeat steps 6-9. Expected result: System works as expected. Find modal shows. Prowly word is found and highlighted.
-Step 19 Click on ‘All filters’ lookup button /Flights filter. Expected result: Fights suggestions are displayed but no ‘Prowly’ word is found under this filter. 
-Step 20 Close Find modal. Expected result: Find modal is closed.
-Step 21 Close chrome browser. Expected result: Browser is closed.
-Step 22 Repeat sceanrio in Firefox browser. Expected result: System works as expected. Data with prowly world are founded.
-Step 23 Repeat sceanrio in Microsoft edge browser.Expected result: System works as expected. Data with prowly world are founded.
+Step 19 Click on ‘All filters’ lookup button / Books filter. Expected result: Books with ‘Prowly’ word are listed.
+Step 20 Repeat steps 6-9. Expected result: System works as expected. Find modal shows. Prowly word is found and highlighted.
+Step 21 Click on ‘All filters’ lookup button /Flights filter. Expected result: Fights suggestions are displayed but no ‘Prowly’ word is found under this filter. 
+Step 22 Close Find modal. Expected result: Find modal is closed.
+Step 23 Close chrome browser. Expected result: Browser is closed.
+Step 24 Repeat sceanrio in Firefox browser. Expected result: System works as expected. Data with prowly world are founded.
+Step 25 Repeat sceanrio in Microsoft edge browser.Expected result: System works as expected. Data with prowly world are founded.
 
