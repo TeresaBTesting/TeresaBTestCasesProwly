@@ -1,0 +1,50 @@
+
+Test case 2 Searching ‘prowly’ word in google search bar using advanced 'text' options.
+
+Precondition:
+1. User has access to the internet and installed latest versions of Chrome, Firefox, Microsoft Edge browsers. (Windows system)
+3.'Prowly' company is created with his own website: e.g. www.prowly.com. 
+Company:
+- has accounts on social media (facebook, instagram, Linkedin etc.) 
+- same interviews/articles are conducted
+- some books about prowly are available on the market,
+- company has own logo with ‘prowly’ text
+- some videos for ‘Prowly’ are created
+- has full data filled on own website as
+* subpage ‘about us’, ‘Pricing’, 
+* Contact: address, localisation on map, phone number, fax and mail.
+4. All default settings are set in all browsers.
+Expected result: Preconditions are met.
+
+Step 1 Open Chrome browser. Enter ‘www.google.com’ website, press Enter on keayboard. Expected result: ‘www.google.com’ website is displayed. 
+Step 2 Enter in search bar ‘prowly’ word. Expected result: 'prowly' word is entered.
+Step 3 Press ‘Search in google’ button. Expected result: Data with ‘prowly’ word are listed in ‘All’ filter option (set as default).
+Step 4 Clear ‘prowly’ text in search bar. Expected result: Search bar is empty. Text is cleared.
+Step 5 Enter: prowly OR software in search bar. Press ‘Search’ button.	Expected result: Data with ‘Prowly’ word are listed.
+Step 6 Clear ‘prowly OR software’ text in search bar. Expected result: Search bar is empty. Text is cleared.
+Step 7 Enter  in search bar: allintext: prowly. Expected result: Data with ‘prowly’ text are listed.
+Step 8 Clear ‘allintext: prowly’ text in search bar.Expected result: Search bar is empty. Text is cleared.
+Step 9 Enter in search bar: allintitle: prowly. Expected result: Word ‘prowly’ appeared in the title of search articles. 
+Step 10 Clear ‘allintitle: prowly’ text in search bar. Expected result:	Search bar is empty. Text is cleared.
+Step 11 Enter in search bar: related:prowly.com. Expected result: Websites with similar content ‘prowly.com’ are listed.
+Step 12 Clear ‘related:prowly.com’ text in search bar.	Expected result: Search bar is empty. Text is cleared.
+Step 13 Enter in search bar: allinurl: prowly. Expected result: All websites with 'prowly' word are listed. 
+Step 14 Clear ‘allinurl: prowly’ text in search bar. Expected result: Search bar is empty. Text is cleared.
+Step 15 Enter in search bar: @prowly. Expected result: All websites (social media) with 'prowly' word are listed.
+Step 16 Clear ‘@prowly’ text in search bar. Expected result: Search bar is empty. Text is cleared.
+Step 17 Enter in search bar: site:prowly.com/pl/o-nas/ (to find only this website) Expected result: Website ‘prowly.com/pl/o-nas/’ is displayed as only one to open. 
+Step 18 Clear ‘site:prowly.com/pl/o-nas/’ text in search bar. Expected result: Search bar is empty. Text is cleared.
+Step 19 Enter in search bar: prowly ~ software. Expected result: All websites with synonims ‘prowly’ are listed. 
+Step 20 Clear ‘prowly ~ software’ text in search bar. Expected result: Search bar is empty. Text is cleared.
+Step 21 Enter in search bar: prowly*. Expected result: All website with incomplete phrases 'prowly' are listed. 
+Step 22 Clear ‘prowly*’ text in search bar. Expected result: Search bar is empty. Text is cleared.
+Step 23 Enter in search bar: #prowly. Expected result: All social media websites with ‘prowly’ word are listed.
+Step 24 Clear ‘#prowly’ text in search bar. Expected result: Search bar is empty. Text is cleared.
+Step 25 Enter in search bar:filetype:pdf prowly. Expected result: All .pdf files are listed with 'prowly' word.
+Step 26 Clear ‘filetype:pdf prowly’ text in search bar. Expected result: Search bar is empty. Text is cleared.
+Step 27 Enter in search bar: prowly AND PR. Expected result: All webistes with ‘prowly PR’ worlds are listed.
+Step 28 Clear ‘ prowly AND PR’ text in search bar. Expected result: Search bar is empty. Text is cleared.
+Step 29 Enter in search bar: define:prowly. Expected result: Definition of word 'prowly' is displayed with ‘more question’ suggesting what is ‘prowly’. 
+Step 30 Clear ‘define:prowly’ text in search bar. Expected result: Search bar is empty. Text is cleared.
+Repeat steps 1-30 in Firefox browser. Expected result: System works as expected. Data with prowly word are founded.
+Repeat steps 1-30 in Microsoft edge browser.Expected result: System works as expected. Data with prowly word are founded.
