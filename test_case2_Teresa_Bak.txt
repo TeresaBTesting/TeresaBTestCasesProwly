@@ -3,7 +3,7 @@ Test case 2 Searching ‘prowly’ word in google search bar using advanced 'text' o
 
 Precondition:
 1. User has access to the internet and installed latest versions of Chrome, Firefox, Microsoft Edge browsers. (Windows system)
-3.'Prowly' company is created with his own website: e.g. www.prowly.com. 
+2.'Prowly' company is created with his own website: e.g. www.prowly.com. 
 Company:
 - has accounts on social media (facebook, instagram, Linkedin etc.) 
 - same interviews/articles are conducted
@@ -13,7 +13,7 @@ Company:
 - has full data filled on own website as
 * subpage ‘about us’, ‘Pricing’, 
 * Contact: address, localisation on map, phone number, fax and mail.
-4. All default settings are set in all browsers.
+3. All default settings are set in all browsers.
 Expected result: Preconditions are met.
 
 Step 1 Open Chrome browser. Enter ‘www.google.com’ website, press Enter on keayboard. Expected result: ‘www.google.com’ website is displayed. 
