@@ -1,0 +1,44 @@
+Test case 3. Searching ‘prowly’ word by google assistant and voice/image options. (android device)
+
+Precondition:
+1. User has access to the internet and installed latest versions of Chrome, Firefox browsers.
+2. ‘Prowly’ company is created with his own website: e.g. www.prowly.com. 
+Company:
+- has accounts on social media (facebook, instagram, Linkedin etc.) 
+- same interviews/articles are conducted
+- some books about prowly are available on the market,
+- company has own logo with ‘prowly’ text on it. Logo is available in different formats:
+   .jpeg, .jpg,.png, .bmp 
+- some videos for ‘Prowly’ are created
+- has full data filled on own website as
+* subpage ‘about us’, ‘Pricing’, 
+* Contact: address, localisation on map, phone number, fax and mail.
+3. All default settings are set in all browsers.
+4. User has access to mobile android device. 
+5. Google assistant appliaction is installed and running. 
+6. All voice and videos/images permissions are enabled for mobile user.
+Expected result: Preconditions are met.
+ 
+Step 1 Log on mobile device as user1. Expected result: User 1 is logged on mobile.
+Step 2 Press Google assistant application. Expected result: Google assistant appliaction is running.
+Step 3 Say ‘open www.google.com' Expected result: ‘www.google.com’ website is displayed. 
+Step 4 Tap ‘Search by voice’ button in the search bar. Expected result: Screen shows with microphone icon ready to work.
+Step 5 Say ‘Prowly’. Expected result: Data with ‘Prowly’ word are listed.
+Step 6 Tap ‘Search by voice’ button again and Say ‘proweli’. Expected result: Data with proweli’ word are listed.
+Step 7 Tap ‘Search by voice’ button again and Say ‘ prowely’. Expected result: Data with ‘prowely’ word are listed.
+Step 8 Tap ‘Search by voice’ button again and Say ‘prawli’. Expected result: Data with ‘prawli’ word are listed.
+Step 9 Tap ‘Search by voice’ button again and say ‘prowli’. Expected result: Data with ‘prowli’ word are listed.
+Step 10 Tap ‘Search by voice’ button again and Say ‘plowely’. Expected result: Data with ‘plowely’ word are listed.
+Step 11 Tap ‘Search by voice’ button again and say ‘plowli’. Expected result: Data with ‘plowli’ word are listed.
+Step 12 Tap ‘Search by voice’ button again and say ‘prouli’. Expected result: Data with ‘prouli’ word are listed.
+Step 13 Tap ‘Search by voice’ button again and say ‘prauli’. Expected result: Data with ‘prauli’ word are listed.
+Step 14 Tap picture icon ‘search by image’ button (next to the microphone icon on search bar options). Expected result: New window shows with infromation to 'Drag an image here or upload a file / paste image link".
+Step 15 Upload a .jpg file with Prowly logo. Expected result: File is uploaded.
+Step 16 Press find button.  Expected result: All .jpg images are displayed with ‘prowly’ logo. 
+Step 17 Again press ‘search by image’ button and upload .jpeg file with Prowly logo. Expected result: File is uploaded.
+Step 18 Press find button.  Expected result: All .jpeg images are displayed with ‘prowly’ logo. 
+Step 19 Again press ‘search by image’ button and upload .png file with Prowly logo. Expected result: File is uploaded.
+Step 20 Press find button.  Expected result: All .png image are displayed with ‘prowly’ logo.
+Step 21 Again press ‘search by image’ button and upload .bmp file with Prowly logo. Expected result: File is uploaded.
+Step 22 Press find button. Expected result: All.bmp images are displayed with ‘prowly’ logo.
+Step 23 Close browser and back to main screen on mobile. Expected result: Main screen on mobile is displayed.
