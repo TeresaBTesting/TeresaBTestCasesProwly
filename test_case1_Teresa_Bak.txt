@@ -19,13 +19,13 @@ Expected result: Preconditions are met.
 
 Step 1 Open Chrome browser and find  ‘www.google.com’ website. Expected result: ‘www.google.com’ website is displayed. 
 Step 2 Enter in search bar ‘Prowly’ word. Expected result: Prowly word is entered.
-step 3 Press ‘Search in google’ button. Expected result: Data with ‘Prowly’ world are listed in ‘All’ filter option (set as default).
+step 3 Press ‘Search in google’ button. Expected result: Data with ‘Prowly’ word are listed in ‘All’ filter option (set as default).
 Step 4 Verify if main ‘prowly’ website is displayed at the top of the list with logo next to the name (text). Expected result:‘Prowly’ website www.prowly.com is displayed at the top of the list with logo next to the name (text).
 step 5 Verify if numbers about founded ‘Prowly’ word is displayed under the filters option e.g ‘About 679000  results’. Expected result: Numbers about founded ‘Prowly’ word is displayed under the filters option e.g ‘About 679000  results’. 
-Step 6 On keyboard press ctrl+f. expected result: 'Find' modal shows.
+Step 6 On keyboard press ctrl+f. Expected result: 'Find' modal shows.
 Step 7 Verify if ‘prowly’ word is displayed and there is counter next to it e.g. 0/45. Expected result: ‘prowly’ word is displayed and there is counter next to it e.g. 0/45.
 Step 8 Verify if The system shows all the words "prowly" highlighted in yellow. Expected result: The system shows all the words "prowly" highlighted in yellow.
-Step 9 Use next/previous buttons to move between highlighted ‘prowly’ words. expected result: System shows next/previous highlighted ‘prowly’ word on listed data.
+Step 9 Use next/previous buttons to move between highlighted ‘prowly’ words. Expected result: System shows next/previous highlighted ‘prowly’ word on listed data.
 Step 10 Click on ‘All filters’ lookup button and verify if following options are listed:
 -  All
 - News
@@ -44,19 +44,19 @@ Expected result: Following options are listed under the All filters lookup:
 - Books
 - Flights
 - Finance
-Step 11 Click on  ‘All filters’ lookup button /‘images’ filter.  Expected result: Images with ‘Prowly’ word are listed.
-Step 12 Repeat steps 6-9. Expected result: System works as expected. Find modal shows. Prowly word is found and highlighted. 
-Step 13 Click on  ‘All filters’ lookup button /‘ News’ filter.  Expected result: News with ‘Prowly’ word are listed.
-Step 14 Repeat steps 6-9. Expected result: System works as expected. Find modal shows. Prowly word is found and highlighted.
-Step 15 Click on ‘All filters’ lookup button /‘Videos’ filter. Expecetd result: Videos with ‘Prowly’ word are listed.
-Step 16 Repeat steps 6-9. Expected result: System works as expected. Find modal shows. Prowly word is found and highlighted.
-Step 17 Click on‘All filters’ lookup button / ‘Maps’ filter.  expected result: Maps with ‘Prowly’ word are listed.
-Step 18 Repeat steps 6-9. Expected result: System works as expected. Find modal shows. Prowly word is found and highlighted.
-Step 19 Click on ‘All filters’ lookup button / Books filter. Expected result: Books with ‘Prowly’ word are listed.
-Step 20 Repeat steps 6-9. Expected result: System works as expected. Find modal shows. Prowly word is found and highlighted.
-Step 21 Click on ‘All filters’ lookup button /Flights filter. Expected result: Fights suggestions are displayed but no ‘Prowly’ word is found under this filter. 
-Step 22 Close Find modal. Expected result: Find modal is closed.
+Step 11 Click on‘All filters’ lookup button/‘Images’ filter. Expected result:Images with ‘Prowly’ word are listed.
+Step 12 Repeat steps 6-9. Expected result: System works as expected. 'Find' modal shows. Prowly word is found and highlighted. 
+Step 13 Click on  ‘All filters’ lookup button/‘News’ filter. Expected result:News with ‘Prowly’ word are listed.
+Step 14 Repeat steps 6-9. Expected result: System works as expected. 'Find' modal shows. Prowly word is found and highlighted.
+Step 15 Click on ‘All filters’ lookup button/‘Videos’ filter. Expecetd result:Videos with ‘Prowly’ word are listed.
+Step 16 Repeat steps 6-9. Expected result: System works as expected. 'Find' modal shows. Prowly word is found and highlighted.
+Step 17 Click on ‘All filters’ lookup button/‘Maps’ filter. Expected result: Maps with ‘Prowly’ word are listed.
+Step 18 Repeat steps 6-9. Expected result: System works as expected. 'Find' modal shows. Prowly word is found and highlighted.
+Step 19 Click on ‘All filters’ lookup button/'Books' filter. Expected result: Books with ‘Prowly’ word are listed.
+Step 20 Repeat steps 6-9. Expected result: System works as expected. 'Find' modal shows. Prowly word is found and highlighted.
+Step 21 Click on ‘All filters’ lookup button/'Flights' filter. Expected result: Fights suggestions are displayed but no ‘Prowly’ word is found under this filter. 
+Step 22 Close Find modal. Expected result: 'Find' modal is closed.
 Step 23 Close chrome browser. Expected result: Browser is closed.
-Step 24 Repeat sceanrio in Firefox browser. Expected result: System works as expected. Data with prowly world are founded.
-Step 25 Repeat sceanrio in Microsoft edge browser.Expected result: System works as expected. Data with prowly world are founded.
+Step 24 Repeat sceanrio in Firefox browser. Expected result: System works as expected. Data with 'prowly' word are founded.
+Step 25 Repeat sceanrio in Microsoft edge browser.Expected result: System works as expected. Data with prowly word are founded.
 
