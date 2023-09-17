@@ -5,7 +5,7 @@ Precondition:
 2. 'Prowly' company is created with his own website: e.g. www.prowly.com. 
 Company:
 - has accounts on social media (facebook, instagram, Linkedin etc.) 
-- same interviews/articles are conducted
+- some interviews/articles are conducted
 - some books about prowly are available on the market,
 - company has own logo with ‘prowly’ text
 - some videos for ‘Prowly’ are created
