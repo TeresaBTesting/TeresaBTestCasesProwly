@@ -1,0 +1,49 @@
+Test case 5. Searching ‘prowly’ word by date filter in google search bar using 'tools' options.
+
+Precondition:
+1. User has access to the internet and installed latest versions of Chrome, Firefox, Microsoft Edge browsers. (Windows system)
+2. 'Prowly' company is created with his own website: e.g. www.prowly.com. 
+Company:
+- has accounts on social media (facebook, instagram, Linkedin etc.) 
+- same interviews/articles are conducted
+- some books about prowly are available on the market,
+- company has own logo with ‘prowly’ text
+- some videos for ‘Prowly’ are created
+- has full data filled on own website as
+* subpage 'About us', 'Pricing', 
+* Contact: address, localisation on map, phone number,fax and mail.
+3. All default settings are set in all browsers.
+Expected result: Preconditions are met.
+
+Step 1 Open Chrome browser and find 'www.google.com' website. Expected result: 'www.google.com' website is displayed. 
+Step 2 Enter in search bar: prowly. Expected result: 'prowly' is entered in search bar.
+Step 3 Press ‘Search in google’ button. Expected result: All data with 'prowly' word are listed.
+Step 4 Press 'tools' option next to the 'All filters' lookup. Expected result: New filters option show "Any time" and 'All results' lookups.
+Step 5 Expand "Any time' lookup. Verify if following options are available:
+- Any time
+- Past hour
+- Past 24 hours
+- Past week
+- Past month
+- Past year
+- Custom range...
+Expected result: Under 'Any time' filter following options are available:
+- Any time (default set)
+- Past hour
+- Past 24 hours
+- Past week
+- Past month
+- Past year
+- Custom range...
+Step 6 Set "Past hour' option. Verify if The data is filtered by 'Past hour' with the word 'prowly'.
+Step 7 Press Tools button and set 'Past 24 hours'. Verify if The data is filtered by 'Past 24 hours' with the word 'prowly'.
+Step 8 Press Tools button and set 'Past week'. Verify if The data is filtered by 'Past week' with the word 'prowly'.
+Step 9 Press Tools button and set 'Past month'. Verify if The data is filtered by 'Past month' with the word 'prowly'.
+Step 10 Press Tools button and set 'Past year'. Verify if The data is filtered by 'Past year' with the word 'prowly'.
+Step 11 Press Tools button and choose 'Custom range..'. Expected result: Modal 'Customed date range' shows.
+Step 12 Set From 1/11/2020 T0 17/09/2023. Press Go button. Verify if The data is filtered by range 'From 1/11/2020 To 17/09/2023' with the word 'prowly'.
+Step 13 Press Tools button and choose 'Custom range..'. Expected result: Modal 'Customed date range' shows. 
+Step 14 Set different range e.g. From 1/06/2023 T0 31/08/2023. Press Go button. Verify if The data is filtered by range 'From 1/06/2023 To 31/08/2023' with the word 'prowly'.
+Step 15 Close Chrom browser. Expected result: Chrome browser is closed.
+Step 16 Repeat stesps 1-15 in Firefox browser. Expected result: System works as expected. The data is filtered by date with the word "prowly."
+Step 17 Repeat steps 1-15 in Microsoft edge browser.Expected result: System works as expected. The data is filtered by date with the word "prowly." 
