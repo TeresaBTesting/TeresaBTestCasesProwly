@@ -1,0 +1,39 @@
+Test case 6. Searching ‘prowly’ word by date filter in google search bar using different date formats. 
+
+Precondition:
+1. User has access to the internet and installed latest versions of Chrome, Firefox, Microsoft Edge browsers. (Windows system)
+2. 'Prowly' company is created with his own website: e.g. www.prowly.com. 
+Company:
+- has accounts on social media (facebook, instagram, Linkedin etc.) 
+- some interviews/articles are conducted
+- some books about prowly are available on the market,
+- company has own logo with ‘prowly’ text
+- some videos for ‘Prowly’ are created
+- has full data filled on own website as
+* subpage 'About us', 'Pricing', 
+* Contact: address, localisation on map, phone number,fax and mail.
+3. All default settings are set in all browsers.
+Expected result: Preconditions are met.
+
+Step 1 Open Chrome browser and find 'www.google.com' website. Expected result: 'www.google.com' website is displayed. 
+Step 2 Enter in search bar: prowly 10-10-2020. Expected result: 'prowly 10-10-2020' is entered in search bar.
+Step 3 Press 'Search in google' button. Expected result: All data with 'prowly 10-10-2020' are listed.
+Step 4 Clear 'prowly 10-10-2020' text in search bar. Expected result: Search bar is empty. Text is cleared.
+Step 5 Enter in search bar: prowly 12-31-2022. Press 'Search' button. Expected result: All Data with 'prowly 12-31-2022' are listed.
+Step 6 Clear 'prowly 12-31-2022' text in search bar. Expected result: Search bar is empty. Text is cleared.
+Step 7 Enter in search bar: prowly 2022-12-31. Press 'Search' button. Expected result:All Data with 'prowly 2022-12-31' are listed.
+Step 8 Clear 'prowly 2022-12-31' text in search bar. Expected result: Search bar is empty. Text is cleared.
+Step 9 Enter in search bar: prowly 10/10/2022. Press 'Search' button. Expected result: All Data with 'prowly 10/10/2022' are listed.
+Step 10 Clear 'prowly 10/10/2022' text in search bar. Expected result: Search bar is empty. Text is cleared.
+Step 11 Enter in search bar: prowly 12/31/2022. Press 'Search' button. Expected result: All Data with 'prowly 12/31/2022' are listed.
+Step 12 Clear 'prowly 10/10/2022' text in search bar. Expected result: Search bar is empty. Text is cleared.
+Step 13 Enter in search bar: prowly 2022/12/31. Press 'Search' button. Expected result: All Data with 'prowly 2022/12/31' are listed.
+Step 14 Clear 'prowly 2022/12/31' text in search bar. Expected result: Search bar is empty. Text is cleared.
+Step 15 Enter in search bar: prowly 5 January 2023. Press 'Search' button. Expected result: All Data with 'prowly 5 January 2023' are listed.
+Step 16 Clear 'prowly 5 January 2023' text in search bar. Expected result: Search bar is empty. Text is cleared.
+Step 17 Enter in search bar: prowly 5 January. Press 'Search' button. Expected result: All Data with 'prowly 5 January' are listed.
+Step 18 Clear 'prowly 5 January' text in search bar. Expected result: Search bar is empty. Text is cleared.
+Step 19 Enter in search bar: prowly February 07, 2022. Press 'Search' button. Expected result: All Data with 'prowly February 07, 20222' are listed.
+Step 20 Close Chrom browser. Expected result: Chrome browser is closed.
+Step 21 Repeat stesps 1-20 in Firefox browser. Expected result: System works as expected. The data is filtered by different date format with the word "prowly."
+Step 22 Repeat steps 1-20 in Microsoft Edge browser.Expected result: System works as expected. The data is filtered by different date format with the word "prowly."
