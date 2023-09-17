@@ -1,0 +1,36 @@
+Test case 4. Searching ‘prowly’ word by date filter in google search bar using advanced 'text' options.
+
+Precondition:
+1. User has access to the internet and installed latest versions of Chrome, Firefox, Microsoft Edge browsers. (Windows system)
+2. ‘Prowly’ company is created with his own website: e.g. www.prowly.com. 
+Company:
+- has accounts on social media (facebook, instagram, Linkedin etc.) 
+- same interviews/articles are conducted
+- some books about prowly are available on the market,
+- company has own logo with ‘prowly’ text
+- some videos for ‘Prowly’ are created
+- has full data filled on own website as
+* subpage ‘about us’, ‘Pricing’, 
+* Contact: address, localisation on map, phone number,fax and mail.
+3. All default settings are set in all browsers.
+Expected result: Preconditions are met.
+
+Step 1 Open Chrome browser and find ‘www.google.com’ website. Expected result: ‘www.google.com’ website is displayed. 
+Step 2 Enter in search bar: prowly 2020...2023. Expected result: 'prowly 2020...2023' are entered in search bar.
+Step 3 Press ‘Search in google’ button. Expected result: All data with filter date between 2020 -2023 for 'prowly' word are listed.
+Step 4 Clear 'prowly 2020...2023' in search bar. Expected result: Search bar is empty. Text is cleared.
+Step 5 Enter in search bar: prowly before:2023. Expected result: All data before 2023 year for 'prowly' word are listed.
+Step 6 Clear 'prowly before:2023' in search bar. Expected result: Search bar is empty. Text is cleared.
+Step 7 Enter in search bar: prowly after:2020. Expected result: All data after 2020 year for 'prowly' word are listed.
+Step 8 Clear 'prowly after:2020' in search bar. Expected result: Search bar is empty. Text is cleared.
+Step 9 Enter in search bar: prowly before:2023-09-17. Expected result: All data before 2023-09-17 for 'prowly' word are listed.
+Step 10 Clear 'prowly before:2023-09-17' in search bar. Expected result: Search bar is empty. Text is cleared.
+Step 11 Enter in search bar: prowly before:2023/09/17. Expected result: All data before 2023/09/17 for 'prowly' word are listed.
+Step 12 Clear 'prowly before:2023/09/17' in search bar. Expected result: Search bar is empty. Text is cleared.
+Step 13 Enter in search bar: prowly after:2020-06-04. Expected result: All data after 2023-06-04 for 'prowly' word are listed.
+Step 14 Clear 'prowly after:2020-10-04' in search bar. Expected result: Search bar is empty. Text is cleared.
+Step 15 Enter in search bar: prowly after:2020/10/04. Expected result: All data after 2020/10/04 for 'prowly' word are listed.
+Step 16 lear 'prowly after:2020/10/04' in search bar. Expected result: Search bar is empty. Text is cleared.
+Step 17 Close Chrom browser. Expected result: Chrome browser is closed.
+Step 18 Repeat sceanrio in Firefox browser. Expected result: System works as expected. The data is filtered by date with the word "prowly."
+Step 19 Repeat sceanrio in Microsoft edge browser.Expected result: System works as expected. The data is filtered by date with the word "prowly." 
